@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 > ## Project
 >
-> > - 자기 객관화를 돕는 앱
-> > - (client) : https://github.com/MyNameIsTaeYeong/oh_client
-> > - (server) : https://github.com/MyNameIsTaeYeong/oh_server
+> - 자기 객관화를 돕는 앱
+>   - (client) : https://github.com/MyNameIsTaeYeong/oh_client
+>   - (server) : https://github.com/MyNameIsTaeYeong/oh_server
 > 
 > ## Computer Science
 >
