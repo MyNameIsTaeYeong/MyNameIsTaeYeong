@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 > - Database : https://github.com/MyNameIsTaeYeong/database
 > - Problem Solving : https://github.com/MyNameIsTaeYeong/Problem-Solving
 > - Data Mining : https://github.com/MyNameIsTaeYeong/datamining
+> - Operating System : https://github.com/MyNameIsTaeYeong/operating_system
 >
 > ## 학습기록 및 개인참고용.
 >
