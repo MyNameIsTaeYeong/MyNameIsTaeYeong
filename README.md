@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 > - React-Native를 이용한 날씨앱 : https://github.com/MyNameIsTaeYeong/fokin-weather
 > - 영화사이트(React JS) : https://github.com/MyNameIsTaeYeong/nomflix
 > - Node.Js교과서 : https://github.com/MyNameIsTaeYeong/nodejs_textbook
+> - CS시험 대비 : https://github.com/MyNameIsTaeYeong/pretest2
