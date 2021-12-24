@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 > ## Project
 >
 > - 자기 객관화를 돕는 앱
->   - (client) : https://github.com/MyNameIsTaeYeong/oh_client
+>   - (client) : https://github.com/MyNameIsTaeYeong/oh
 >   - (server) : https://github.com/MyNameIsTaeYeong/oh_server
 >
 > - 날씨에 따른 옷 종류 추천 및 SNS(옷고리즘)
