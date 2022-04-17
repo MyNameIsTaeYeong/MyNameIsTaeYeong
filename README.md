@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 > ## Project
 >
 > - 자기 객관화를 돕는 앱 (아!)
->   - [client](https://github.com/MyNameIsTaeYeong/oh)
->   - [server](https://github.com/MyNameIsTaeYeong/oh_server)
+>   - [아!(oh!) client](https://github.com/MyNameIsTaeYeong/oh)
+>   - [아!(oh!) server](https://github.com/MyNameIsTaeYeong/oh_server)
 >
 > - 날씨에 따른 옷 종류 추천 및 SNS (옷고리즘)
 >   - [옷고리즘](https://github.com/the-ambitious/otgorithm-android)
